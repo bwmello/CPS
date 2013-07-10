@@ -5,9 +5,7 @@ CPS, short for "C++ to PostScript," allows users to specify drawings at a high l
 
 Team
 ===
-Charlie Carlson
-Ruslan Kolesnik
-Brent Mello
+Charlie Carlson, Ruslan Kolesnik, Brent Mello
 
 
 Files
